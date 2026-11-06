@@ -1,83 +1,83 @@
-HR Employee Attrition & Retention Analysis
+# 📊 HR Employee Attrition & Retention Analysis
 
-Project Overview
+**An HR Analytics project using Microsoft Excel and Power BI to analyze employee attrition, identify workforce trends, and understand employee retention patterns.**
 
-This project focuses on analyzing employee attrition and retention to understand why employees leave an organization. The analysis uses Excel and Power BI to explore employee data, identify patterns and present meaningful business insights.
+---
 
-Project Objectives
+## 📌 Project Overview
 
-Analyze overall employee attrition and retention.
+Employee attrition is an important challenge for organizations. Understanding why employees leave helps HR teams make better workforce decisions.
 
-Identify employee groups with higher attrition rates.
+This project analyzes employee data to identify attrition patterns across different departments, job roles, age groups, and other employee-related factors.
 
-Understand attrition patterns across departments and job roles.
+## 🎯 Project Objectives
 
-Explore factors that may influence employee turnover.
+- Analyze overall employee attrition and retention.
+- Identify employee groups with higher attrition rates.
+- Examine attrition patterns across departments and job roles.
+- Understand factors associated with employee turnover.
+- Create an interactive dashboard to present HR insights.
 
-Present insights through an interactive Power BI dashboard.
+## 🛠️ Tools & Technologies
 
-Tools & Technologies
+| Tool | Purpose |
+|---|---|
+| Microsoft Excel | Data analysis, Pivot Tables and data exploration |
+| Power BI | Data visualization and interactive dashboard |
 
-Microsoft Excel: Data analysis, Pivot Tables and data exploration.
+## 📂 Dataset Overview
 
-Power BI: Data visualization, dashboard creation and reporting.
+- **Total Employees:** 1,470
+- **Employees Who Left:** 237
+- **Attrition Rate:** 16.12%
 
-Dataset
+## 🔄 Project Workflow
 
-Total Employee Records: 1,470
+**1. Data Understanding**
+- Explored the HR dataset and understood its structure.
+- Reviewed columns, data types and employee information.
 
-Attrition Cases: 237
+**2. Data Cleaning**
+- Checked missing values and data consistency.
+- Verified column data types and dataset quality.
 
-Attrition Rate: 16.12%
+**3. Excel Analysis**
+- Used Pivot Tables and Excel features.
+- Analyzed employee attrition across different categories.
 
-Project Workflow
+**4. Power BI Dashboard**
+- Created visualizations and KPI cards.
+- Developed an interactive HR analytics dashboard.
 
-Data Understanding: Examined the HR dataset and understood its columns and structure.
+**5. Insights & Interpretation**
+- Examined employee attrition trends.
+- Identified patterns to support HR decision-making.
 
-Data Cleaning: Checked data types, missing values and data consistency.
+## 📈 Dashboard Preview
 
-Excel Analysis: Used Pivot Tables and Excel features to analyze employee attrition.
+![HR Analytics Dashboard](HR-%20Analytics%20Dashboard%20SS.png)
 
-Power BI: Created visualizations and an interactive dashboard.
+## 📁 Project Files
 
-Insights: Examined employee attrition patterns to support HR decision-making.
+| File Name | Description |
+|---|---|
+| HR-dataset.csv | Original HR dataset |
+| HR-Analytics-Excel.xlsx | Excel analysis workbook |
+| HR-Analytics-PBi.pbix | Power BI dashboard |
+| HR- Analytics Dashboard SS.png | Dashboard screenshot |
 
-Dashboard Preview
+## 💡 Key Findings
 
+- The organization recorded 237 employee exits out of 1,470 employees.
+- The overall employee attrition rate was 16.12%.
+- Employee attrition patterns can help identify workforce retention challenges.
+- HR analytics can support data-driven employee retention planning.
 
+## 📝 Conclusion
 
-Project Files
+This project provided practical experience in analyzing HR data using Excel and Power BI. It demonstrates how employee information can be transformed into meaningful insights through data analysis and visualization.
 
-File
+---
 
-Description
-
-HR-dataset.csv
-
-Original employee dataset
-
-HR-Analytics-Excel.xlsx
-
-Excel analysis workbook
-
-HR-Analytics-PBi.pbix
-
-Power BI dashboard
-
-HR-Analytics Dashboard SS.png
-
-Dashboard screenshot
-
-Key Business Insights
-
-Overall employee attrition rate is 16.12%.
-
-A total of 237 employees left the organization.
-
-Employee attrition patterns can help HR teams identify retention challenges.
-
-Data-driven analysis can support better employee retention strategies.
-
-Conclusion
-
-This project helped develop practical skills in HR data analysis, Excel reporting and Power BI dashboard development. It demonstrates how employee data can be transformed into meaningful insights to support human resource planning and decision-making.
+**Project Category:** Human Resources Analytics  
+**Tools Used:** Microsoft Excel | Power BI
